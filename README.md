@@ -24,11 +24,6 @@ I am Corné van Klink, working as a Salesforce Developer at [Aethon](https://www
 **[FreeCodeCamp Certificates](https://www.freecodecamp.org/cornevanklink)** :
 - ...
 
-<br>
-
-<a href="https://github.com/cornevanklink">
-<img align="center" alt="Corné's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cornevanklink&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-
 <br><br>
 
 <a href="https://github.com/cornevanklink">
